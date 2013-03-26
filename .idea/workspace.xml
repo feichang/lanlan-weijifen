@@ -63,7 +63,7 @@
       <file leaf-file-name="style.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="134" column="23" selection-start="1926" selection-end="1932" vertical-scroll-proportion="0.0">
+            <state line="4" column="14" selection-start="53" selection-end="53" vertical-scroll-proportion="-2.4">
               <folding />
             </state>
           </provider>
@@ -72,7 +72,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="382" column="21" selection-start="6169" selection-end="6169" vertical-scroll-proportion="0.7054381">
+            <state line="99" column="12" selection-start="1492" selection-end="1492" vertical-scroll-proportion="0.35635793">
               <folding />
             </state>
           </provider>
@@ -348,14 +348,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="134" column="23" selection-start="1926" selection-end="1932" vertical-scroll-proportion="0.0">
+        <state line="4" column="14" selection-start="53" selection-end="53" vertical-scroll-proportion="-2.4">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="382" column="21" selection-start="6169" selection-end="6169" vertical-scroll-proportion="0.7054381">
+        <state line="99" column="12" selection-start="1492" selection-end="1492" vertical-scroll-proportion="0.35635793">
           <folding />
         </state>
       </provider>
