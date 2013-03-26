@@ -98,6 +98,7 @@ textarea {
 }
 body {
   margin: 0;
+  width: 100%;
   font-family: "Microsoft Yahei";
   background: url('http://img02.taobaocdn.com/tps/i2/T13ulSXp0fXXazKpz.-1920-1200.jpg') 0 0 no-repeat;
     background-size: 100% 100%;

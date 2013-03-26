@@ -13,7 +13,7 @@
     <file path="/index.html" changelist="9d4b0a28-be82-44c5-a10b-d4b9f46d1365" time="1364269280695" ignored="false" />
     <file path="/about.html" changelist="9d4b0a28-be82-44c5-a10b-d4b9f46d1365" time="1364270733224" ignored="false" />
     <file path="/join.html" changelist="9d4b0a28-be82-44c5-a10b-d4b9f46d1365" time="1364269292303" ignored="false" />
-    <file path="/style.less" changelist="9d4b0a28-be82-44c5-a10b-d4b9f46d1365" time="1364271741549" ignored="false" />
+    <file path="/style.less" changelist="9d4b0a28-be82-44c5-a10b-d4b9f46d1365" time="1364275002304" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <file leaf-file-name="style.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="14" selection-start="53" selection-end="53" vertical-scroll-proportion="-2.4">
+            <state line="5" column="4" selection-start="57" selection-end="69" vertical-scroll-proportion="-3.0">
               <folding />
             </state>
           </provider>
@@ -72,7 +72,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="12" selection-start="1492" selection-end="1492" vertical-scroll-proportion="0.35635793">
+            <state line="100" column="2" selection-start="1495" selection-end="1495" vertical-scroll-proportion="0.37990582">
               <folding />
             </state>
           </provider>
@@ -348,14 +348,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="14" selection-start="53" selection-end="53" vertical-scroll-proportion="-2.4">
+        <state line="5" column="4" selection-start="57" selection-end="69" vertical-scroll-proportion="-3.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="12" selection-start="1492" selection-end="1492" vertical-scroll-proportion="0.35635793">
+        <state line="100" column="2" selection-start="1495" selection-end="1495" vertical-scroll-proportion="0.37990582">
           <folding />
         </state>
       </provider>
